@@ -1,0 +1,6 @@
+/Users/Basubi/RiderProjects/CSharpPresentation1/CSharpPresentation1/bin/Debug/CSharpPresentation1.exe
+/Users/Basubi/RiderProjects/CSharpPresentation1/CSharpPresentation1/bin/Debug/CSharpPresentation1.pdb
+/Users/Basubi/RiderProjects/CSharpPresentation1/CSharpPresentation1/obj/Debug/CSharpPresentation1.csprojAssemblyReference.cache
+/Users/Basubi/RiderProjects/CSharpPresentation1/CSharpPresentation1/obj/Debug/CSharpPresentation1.csproj.CoreCompileInputs.cache
+/Users/Basubi/RiderProjects/CSharpPresentation1/CSharpPresentation1/obj/Debug/CSharpPresentation1.exe
+/Users/Basubi/RiderProjects/CSharpPresentation1/CSharpPresentation1/obj/Debug/CSharpPresentation1.pdb
